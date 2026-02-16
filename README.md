@@ -14,7 +14,7 @@ A mini project demonstrating a **Neo4j knowledge graph** for weather analytics.
 ## Tech Stack
 - Neo4j Aura (cloud)
 - Python 3
-- Google Colab (optional)
+- Google Colab
 - Pandas
 
 ## Usage
